@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Bodhitha Weerasekara</h1>
 
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center"></h3>
 
 
 
@@ -16,6 +16,10 @@
 - 🌱 I’m currently learning **Spring boot , dotnet**
 
 - 📫 How to reach me **bodhithad@gmail.com**
+
+- 🧑‍🎓I'm graduated from **SLIIT**
+
+- ⚡ Fun fact Call me as Bodhi
 
 - ---
 
@@ -34,8 +38,8 @@
 
 
 ---
+<h3 align="center">My Statistics</h3>
 
-### My Statistics
 
 
 | ![Bodhitha's github stats](https://github-readme-stats.vercel.app/api?username=BJayamin&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BJayamin&theme=tokyonight) |
